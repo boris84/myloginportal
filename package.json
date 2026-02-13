@@ -16,7 +16,7 @@
     "cookie-session": "^1.4.0",
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
-    "express": "^4.17.1",
+    "express": "^4.22.0",
     "express-messages": "*",
     "express-rate-limit": "^6.3.0",
     "express-sslify": "^1.2.0",
